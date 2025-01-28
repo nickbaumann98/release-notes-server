@@ -2,6 +2,8 @@
 
 An MCP server that generates beautiful release notes from GitHub repositories. It efficiently fetches commits, organizes them by type, and presents them in a clean, readable format.
 
+<a href="https://glama.ai/mcp/servers/c9dg9z23rx"><img width="380" height="200" src="https://glama.ai/mcp/servers/c9dg9z23rx/badge" alt="Release Notes Server MCP server" /></a>
+
 ## Features
 
 - 🎯 Smart commit filtering by date or SHA

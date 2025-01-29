@@ -1,5 +1,6 @@
 # Release Notes Server
 
+<a href="https://smithery.ai/server/@nickbaumann98/release-notes-server"><img alt="Smithery Badge" src="https://smithery.ai/badge/@nickbaumann98/release-notes-server"></a>
 An MCP server that generates beautiful release notes from GitHub repositories. It efficiently fetches commits, organizes them by type, and presents them in a clean, readable format.
 
 ## Features
@@ -13,6 +14,15 @@ An MCP server that generates beautiful release notes from GitHub repositories. I
 
 ## Installation
 
+### Installing via Smithery
+
+To install Release Notes Server for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@nickbaumann98/release-notes-server):
+
+```bash
+npx -y @smithery/cli install @nickbaumann98/release-notes-server --client claude
+```
+
+### Manual Installation
 ```bash
 npm install
 npm run build
